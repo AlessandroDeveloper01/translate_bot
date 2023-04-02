@@ -1,2 +1,2 @@
 # translate_bot
-bot per tradutte le lingue
+bot per tradure la lingua tua in inglese russo ecc
