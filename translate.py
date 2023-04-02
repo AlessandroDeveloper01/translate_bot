@@ -1,7 +1,7 @@
 from aiogram import executor
 from aiogram import Bot, Dispatcher, types
 
-import gtts
+from gtts import gTTS
 
 
 
